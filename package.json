@@ -1,6 +1,6 @@
 {
   "name": "react-native-reload",
-  "version": "0.1.0",
+  "version": "0.0.1-beta",
   "description": "A simple and lightweight utility for React Native that reloads the current app.",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
